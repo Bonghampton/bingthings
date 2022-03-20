@@ -1,22 +1,22 @@
 ## March 19th, 2022
 
-![](images/tracks.jpeg)
+![](img/tracks.jpeg)
 
 
-![](images/marctower.jpeg)
+![](img/marctower.jpeg)
 
 
-![](images/mcwall.jpeg)
+![](img/mcwall.jpeg)
 
 
-![](images/windmere.jpeg)
+![](img/windmere.jpeg)
 
 
-![](images/ridesafe.jpeg)
+![](img/ridesafe.jpeg)
 
 
-![](images/gerardavestation.jpeg)
+![](img/gerardavestation.jpeg)
 
 
-![](images/understation.jpeg)
+![](img/understation.jpeg)
 
